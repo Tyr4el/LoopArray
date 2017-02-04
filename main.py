@@ -6,5 +6,6 @@ def main():
     for number in array:
         print(number)
 
+
 if __name__ == '__main__':
     main()
